@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICloud", "ICloud\ICloud.csproj", "{7A896190-26B9-42C7-A560-63164D73CBE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICloud.Tests", "ICloud.Tests\ICloud.Tests.csproj", "{66A31D0E-E2DE-41EC-9572-16805504DA99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A896190-26B9-42C7-A560-63164D73CBE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A896190-26B9-42C7-A560-63164D73CBE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A896190-26B9-42C7-A560-63164D73CBE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A896190-26B9-42C7-A560-63164D73CBE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66A31D0E-E2DE-41EC-9572-16805504DA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A31D0E-E2DE-41EC-9572-16805504DA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A31D0E-E2DE-41EC-9572-16805504DA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A31D0E-E2DE-41EC-9572-16805504DA99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
